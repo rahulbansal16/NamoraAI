@@ -3,7 +3,7 @@ This is the extension release page for the Namora AI
 
 ### Steps to Install it 
 
-1. Download the 1.0.zip file attached from the link.
+1. Download the latest zip file attached from the release page.
 2. Extract the contents of the ZIP file to a folder on your computer. Right-click the ZIP file and select "Extract All" (on Windows) or double-click the ZIP file (on macOS).
 3. Open your Chrome browser and navigate to the Extensions page by typing chrome://extensions into the address bar and pressing Enter.
 4. Enable "Developer mode" by toggling the switch in the top-right corner of the Extensions page.
