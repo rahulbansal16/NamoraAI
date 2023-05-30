@@ -12,5 +12,5 @@ This is the extension release page for the Namora AI
 7. Orso will now be installed and appear in the list of extensions on the Extensions page.
 8. Enable or disable the Orso extension using the toggle switch next to its name. To pin Orso to the toolbar for easy access, click the "Extensions" icon (a puzzle piece) in the top-right corner of the Chrome window, then click the pin icon next to Orso's name.
 
-Refer to (youtube video)[https://www.youtube.com/watch?v=sZeUZjhOfgM&ab_channel=TechMeSpot] to install chrome extension in developer mode  in case you don't like going through the text.
+Refer to Youtube Video https://www.youtube.com/watch?v=sZeUZjhOfgM&ab_channel=TechMeSpot to install chrome extension in developer mode  in case you don't like going through the text.
 
